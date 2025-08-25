@@ -1,0 +1,7 @@
+{
+    "name": "test20250826",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "echo 'No Build needed'"
+    }
+}
